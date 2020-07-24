@@ -1,0 +1,44 @@
+[
+    {
+        "href": "https://nmosch.github.io/Cal.culator/",
+        "title": "Cal.Culator",
+        "type": "JavaScript/AJAX/HighCharts/Foundation",
+        "description": "A macronutrient calculating app focusing on fronte end technologies",
+        "src": "./images/Cal-Culator.png"
+    },
+    {
+        "href": "https://nmosch.github.io/Weather-Dashboard/",
+        "title": "Weather Dashboard",
+        "type": "JavaScript/AJAX/Local Storage",
+        "description": "A front end app using AJAX to call third part API and return data to the client. Dynamically rendered page.",
+        "src": "images/WeatherDB.png"
+    },
+    {
+        "href": "https://nmosch.github.io/Work-Day-Scheduluer/",
+        "title": "Work Day Scheduler",
+        "type": "JavaScript/LocalStorage",
+        "description": "A front end app using Local Storage for persistance.",
+        "src": "images/Scheduler.png"
+    },
+    {
+        "href": "https://secret-beach-73679.herokuapp.com/",
+        "title": "Eat-Da-Burger!",
+        "type": "Full Stack/Heroku<",
+        "description": "Application allows users to enter in their custom burger and 'Devour it'. Deployed to Heroku. Using MySQL and RESTful API.",
+        "src": "images/BB2.png"
+    },
+    {
+        "href": "https://rotten-potatoes-vm3.herokuapp.com/login",
+        "title": "Rotten Potatoes",
+        "type": "Full Stack/Node.js/MySQL/Express/chart.js",
+        "description": "Full stack app completed with a team. My focus was back end using sequelize to query our database and return customized information to the client. RESTful API calls. Please try for yourself! Username: Rottenpotatoes@test.com PW:1234",
+        "src": "images/RP2.png"
+    },
+    {
+        "href": "https://nicks-note-taker.herokuapp.com/",
+        "title": "Note Taker Express",
+        "type": "Node.js/Express",
+        "description": "Full stack application focusing on CRUD operators when calling the database.",
+        "src": "images/Note_Taker.png"
+    }
+]
