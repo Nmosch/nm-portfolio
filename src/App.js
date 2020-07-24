@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './componenets/Navbar/Navbar';
-import HomeSection from './componenets/Home/Home';
-import Work from './componenets/Work/Work';
-import Footer from './componenets/Footer/Footer';
+import Navbar from './components/Navbar/Navbar';
+import HomeSection from './components/Home/Home';
+import Work from './components/Work/Work';
+import Footer from './components/Footer/Footer';
 import './App.css';
-import About from './componenets/About/About';
+import About from './components/About/About';
 
 function App() {
   return (
