@@ -4,7 +4,7 @@ Thank you for visiting my Github. Please take time to explore and feel free to c
 
 nmosch@gmail.com
 
-[Portfolio](https://nmosch.github.io)
+[Portfolio](https://nmosch.github.io/nm-portfolio/)
 
 You can find my Resume in ./documents/Nicholas_Moschouris_Resume.pdf
 
